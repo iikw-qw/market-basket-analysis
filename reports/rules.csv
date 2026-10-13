@@ -1,0 +1,142 @@
+antecedent,consequent,support,confidence,lift,leverage
+salsa,"beer, chips",0.0724,0.778,8.2181,0.0636
+"beer, chips",salsa,0.0724,0.765,8.2181,0.0636
+"beer, salsa",chips,0.0724,0.957,5.4688,0.0592
+chips,"beer, salsa",0.0724,0.4138,5.4688,0.0592
+"bread, chips",salsa,0.0207,0.4706,5.0556,0.0166
+"butter, chips",salsa,0.0253,0.4469,4.8011,0.02
+"butter, salsa",chips,0.0253,0.8324,4.7567,0.0199
+"cheese, chips",salsa,0.0226,0.4385,4.711,0.0178
+"bread, salsa",chips,0.0207,0.8239,4.7081,0.0163
+"cheese, salsa",chips,0.0226,0.8018,4.5816,0.0177
+salsa,chips,0.0743,0.7986,4.5632,0.058
+chips,salsa,0.0743,0.4248,4.5632,0.058
+"chips, pasta",salsa,0.036,0.4215,4.5278,0.028
+salsa,"chips, pasta",0.036,0.3868,4.5278,0.028
+"pasta, salsa",chips,0.036,0.7714,4.4082,0.0278
+tomato_sauce,"cheese, pasta",0.1198,0.748,3.8101,0.0883
+"cheese, pasta",tomato_sauce,0.1198,0.6099,3.8101,0.0883
+"chips, salsa",beer,0.0724,0.9742,3.5806,0.0522
+"beer, bread",salsa,0.0206,0.3091,3.3211,0.0144
+salsa,"beer, pasta",0.0368,0.3948,3.0685,0.0248
+"butter, salsa",beer,0.0251,0.8269,3.0392,0.0168
+"bread, salsa",beer,0.0206,0.8206,3.016,0.0138
+"cheese, salsa",beer,0.0229,0.8136,2.9903,0.0153
+salsa,beer,0.0757,0.8129,2.9877,0.0503
+"pasta, tomato_sauce",cheese,0.1198,0.8959,2.8985,0.0784
+cheese,"pasta, tomato_sauce",0.1198,0.3874,2.8985,0.0784
+"pasta, salsa",beer,0.0368,0.7875,2.8943,0.0241
+"cheese, sugar",tomato_sauce,0.0245,0.4482,2.7996,0.0157
+"coffee, tomato_sauce",sugar,0.0216,0.4952,2.7952,0.0139
+"cheese, chips",tomato_sauce,0.0221,0.4288,2.6786,0.0138
+"cheese, wipes",tomato_sauce,0.0229,0.4283,2.6758,0.0144
+"cheese, coffee",tomato_sauce,0.0338,0.4274,2.6697,0.0212
+"cheese, milk",tomato_sauce,0.0294,0.4263,2.6632,0.0184
+"bread, tomato_sauce",cheese,0.0308,0.8218,2.6589,0.0192
+"cheese, coffee",sugar,0.0372,0.4695,2.6499,0.0231
+"sugar, tomato_sauce",coffee,0.0216,0.6944,2.641,0.0134
+"butter, cheese",tomato_sauce,0.041,0.422,2.6358,0.0254
+"tomato_sauce, wipes",cheese,0.0229,0.8088,2.6168,0.0142
+"milk, tomato_sauce",cheese,0.0294,0.8041,2.6016,0.0181
+"diapers, tomato_sauce",cheese,0.0262,0.7995,2.5867,0.0161
+"cheese, sugar",coffee,0.0372,0.6799,2.5859,0.0228
+"eggs, tomato_sauce",cheese,0.0251,0.7984,2.5831,0.0154
+"bread, cheese",tomato_sauce,0.0308,0.4095,2.5583,0.0187
+"coffee, pasta",sugar,0.0585,0.4529,2.5564,0.0356
+sugar,"coffee, pasta",0.0585,0.3302,2.5564,0.0356
+"sugar, tomato_sauce",cheese,0.0245,0.7882,2.5501,0.0149
+"beer, cheese",tomato_sauce,0.0345,0.4075,2.5454,0.0209
+"beer, tomato_sauce",cheese,0.0345,0.7841,2.5368,0.0209
+tomato_sauce,cheese,0.1252,0.7824,2.5314,0.0758
+cheese,tomato_sauce,0.1252,0.4052,2.5314,0.0758
+"pasta, sugar",coffee,0.0585,0.6654,2.5309,0.0354
+"coffee, milk",sugar,0.0258,0.4478,2.5277,0.0156
+"butter, tomato_sauce",cheese,0.041,0.7785,2.5187,0.0247
+"coffee, tomato_sauce",cheese,0.0338,0.7763,2.5116,0.0204
+"diapers, sugar",coffee,0.0248,0.6585,2.5047,0.0149
+"bananas, sugar",coffee,0.0214,0.6539,2.4873,0.0128
+"bananas, coffee",sugar,0.0214,0.4401,2.4839,0.0128
+"bananas, tomato_sauce",cheese,0.0212,0.7674,2.4827,0.0126
+"bread, sugar",coffee,0.0286,0.6496,2.4708,0.017
+"milk, sugar",coffee,0.0258,0.6492,2.4691,0.0153
+"cheese, diapers",tomato_sauce,0.0262,0.3947,2.4658,0.0156
+"chips, tomato_sauce",cheese,0.0221,0.7615,2.4637,0.0131
+"bananas, cheese",tomato_sauce,0.0212,0.3938,2.46,0.0126
+"beer, sugar",coffee,0.0307,0.6467,2.4599,0.0182
+"butter, coffee",sugar,0.0364,0.4357,2.4592,0.0216
+coffee,sugar,0.1143,0.4349,2.4546,0.0678
+sugar,coffee,0.1143,0.6453,2.4546,0.0678
+"coffee, eggs",sugar,0.0236,0.434,2.4499,0.014
+"eggs, sugar",coffee,0.0236,0.6417,2.4408,0.0139
+"butter, sugar",coffee,0.0364,0.6361,2.4194,0.0214
+"cheese, eggs",tomato_sauce,0.0251,0.3869,2.4168,0.0147
+"bread, coffee",sugar,0.0286,0.425,2.399,0.0167
+"coffee, diapers",sugar,0.0248,0.4249,2.3983,0.0144
+"beer, coffee",sugar,0.0307,0.422,2.382,0.0178
+"butter, coffee",bread,0.0472,0.5653,2.3027,0.0267
+"bread, milk",butter,0.0382,0.7258,2.2825,0.0214
+"butter, chips",bread,0.0315,0.5575,2.271,0.0176
+"bread, chips",butter,0.0315,0.7173,2.2556,0.0175
+"bread, sugar",butter,0.0314,0.714,2.2453,0.0174
+"butter, sugar",bread,0.0314,0.5488,2.2353,0.0174
+"bread, yogurt",butter,0.024,0.7094,2.2307,0.0132
+"butter, wipes",bread,0.03,0.5471,2.2286,0.0165
+"butter, milk",bread,0.0382,0.5465,2.2262,0.021
+"bread, eggs",butter,0.0342,0.7069,2.2229,0.0188
+"bananas, butter",bread,0.0303,0.5441,2.2163,0.0166
+"bread, coffee",butter,0.0472,0.7026,2.2094,0.0259
+"bananas, bread",butter,0.0303,0.7013,2.2055,0.0166
+"butter, diapers",bread,0.0368,0.5411,2.2041,0.0201
+"beer, bread",butter,0.0467,0.7009,2.204,0.0255
+"bread, tomato_sauce",butter,0.0261,0.6971,2.1922,0.0142
+"bread, diapers",butter,0.0368,0.6945,2.1839,0.0199
+"bread, wipes",butter,0.03,0.6936,2.1813,0.0162
+"bread, pasta",butter,0.0816,0.6929,2.1788,0.0441
+"butter, eggs",bread,0.0342,0.5339,2.1746,0.0185
+"beer, butter",bread,0.0467,0.5268,2.1459,0.0249
+"beer, bread",chips,0.025,0.3755,2.1455,0.0133
+"butter, pasta",bread,0.0816,0.5255,2.1405,0.0435
+bread,"butter, pasta",0.0816,0.3323,2.1405,0.0435
+bread,butter,0.1668,0.6792,2.1359,0.0887
+butter,bread,0.1668,0.5244,2.1359,0.0887
+"butter, cheese",bread,0.0504,0.5189,2.1135,0.0266
+"bread, cheese",butter,0.0504,0.6715,2.1116,0.0265
+"bread, tea",butter,0.0232,0.6699,2.1065,0.0122
+"butter, tea",bread,0.0232,0.5167,2.1048,0.0122
+"butter, yogurt",bread,0.024,0.5152,2.0986,0.0126
+"bread, chips",beer,0.025,0.5693,2.0922,0.0131
+"butter, chips",beer,0.0318,0.5634,2.0708,0.0165
+"beer, butter",chips,0.0318,0.3594,2.0535,0.0163
+"beer, pasta",chips,0.0462,0.3588,2.0503,0.0236
+"cheese, chips",beer,0.0285,0.5534,2.0339,0.0145
+"butter, tomato_sauce",bread,0.0261,0.4953,2.0173,0.0132
+"beer, diapers",wipes,0.0203,0.3521,2.0005,0.0102
+chips,beer,0.0947,0.541,1.9882,0.0471
+beer,chips,0.0947,0.3479,1.9882,0.0471
+"chips, pasta",beer,0.0462,0.5405,1.9865,0.0229
+"cheese, tomato_sauce",pasta,0.1198,0.9561,1.9802,0.0593
+"chips, coffee",beer,0.0239,0.5375,1.9753,0.0118
+"beer, wipes",diapers,0.0203,0.4381,1.9688,0.01
+wipes,diapers,0.0768,0.4361,1.9599,0.0376
+diapers,wipes,0.0768,0.3449,1.9599,0.0376
+"butter, diapers",wipes,0.0233,0.3436,1.952,0.0114
+"diapers, pasta",wipes,0.0365,0.3419,1.9427,0.0177
+"beer, cheese",chips,0.0285,0.3366,1.9235,0.0137
+"butter, wipes",diapers,0.0233,0.4255,1.9125,0.0111
+"cheese, diapers",wipes,0.0222,0.3333,1.8939,0.0105
+"beer, coffee",chips,0.0239,0.3291,1.8807,0.0112
+"cheese, wipes",diapers,0.0222,0.4143,1.8622,0.0103
+"pasta, wipes",diapers,0.0365,0.4113,1.8484,0.0168
+"bananas, tomato_sauce",pasta,0.0241,0.8731,1.8083,0.0108
+"bread, tomato_sauce",pasta,0.0327,0.8731,1.8082,0.0146
+"tomato_sauce, wipes",pasta,0.0242,0.8559,1.7726,0.0106
+"milk, tomato_sauce",pasta,0.031,0.8474,1.755,0.0133
+"eggs, tomato_sauce",pasta,0.0265,0.8435,1.747,0.0113
+"tomato_sauce, yogurt",pasta,0.0209,0.8423,1.7445,0.0089
+"butter, tomato_sauce",pasta,0.044,0.8354,1.7303,0.0186
+"diapers, tomato_sauce",pasta,0.0274,0.835,1.7294,0.0116
+tomato_sauce,pasta,0.1337,0.835,1.7293,0.0564
+"beer, tomato_sauce",pasta,0.0365,0.8295,1.7181,0.0153
+"sugar, tomato_sauce",pasta,0.0257,0.8257,1.7102,0.0107
+"chips, tomato_sauce",pasta,0.0238,0.8218,1.7021,0.0098
+"coffee, tomato_sauce",pasta,0.0357,0.8184,1.6949,0.0146

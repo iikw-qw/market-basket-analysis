@@ -1,0 +1,15 @@
+{
+  "baskets": 12000,
+  "frequent_itemsets": 276,
+  "rules": 141,
+  "top_rules": [
+    "salsa -> beer, chips (lift 8.2, confidence 0.78)",
+    "beer, chips -> salsa (lift 8.2, confidence 0.76)",
+    "beer, salsa -> chips (lift 5.5, confidence 0.96)",
+    "chips -> beer, salsa (lift 5.5, confidence 0.41)",
+    "bread, chips -> salsa (lift 5.1, confidence 0.47)"
+  ],
+  "recommendation_for_pasta_and_sauce": [
+    "cheese"
+  ]
+}
